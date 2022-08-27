@@ -1,0 +1,25 @@
+{
+  "name": "ph-dark-theme",
+  "displayName": "ph theme",
+  "description": "PH Dark Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "PH Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PH Dark Theme-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type":"git",
+    "utl":"https://github.com/no-0-name/my-theme-for-VS-Code"
+  }
+}
